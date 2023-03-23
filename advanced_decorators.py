@@ -34,8 +34,8 @@ def my_decorator_with_arguments(number): #takes in a single argument, the number
 @my_decorator_with_arguments(57)
 def my_function_two(x,y):
 	print (x+y)	#output would be: In the decorator.
-								 #124
-								 #After the decorator.
+			#124
+			#After the decorator.
 
 
 #in a decorator with arguments we can pass something like the user's permissions
