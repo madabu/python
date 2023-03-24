@@ -11,7 +11,7 @@ for character in my_string:
 my_list = [1,3,5,7,9]
 for number in my_list:
 	print (number ** 2) #multiply to the power of (2 in this case), 
-						#so 1 to the pwr of 2; 3 to the pwr of 2 etc.
+			    #so 1 to the pwr of 2; 3 to the pwr of 2 etc.
 
 ##While-loop
 #assigning a boolean value of true to a variable
