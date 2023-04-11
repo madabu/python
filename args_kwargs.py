@@ -38,7 +38,7 @@ class Student:
 
 	@classmethod
 	def friend (cls, origin, friend_name, *args) #substituting salary with args 
-												 #which means that we can take and pass any number of args							
+						     #which means that we can take and pass any number of args							
 		return cls(friend_name, origin.school, *args) 
 
 class WorkingStudent (Student):
